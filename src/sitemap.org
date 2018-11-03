@@ -1,0 +1,4 @@
+#+TITLE: 
+
+- [[file:index.org][Home]]
+- [[file:resume.org][Resume]]
