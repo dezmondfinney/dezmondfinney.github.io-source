@@ -20,7 +20,7 @@
 :END:
 
 #+BEGIN_card
-[[./df-logo.avg]]
+[[./df-logo.svg]]
   
 - @dezmondfinney
 - dezmondf@gmail.com
